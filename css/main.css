@@ -1,0 +1,31 @@
+ body {
+    color: navy;
+ }
+
+h1 {
+    font-family: 'Delius Unicase', cursive;
+}
+
+h2 {
+    font-family: 'Bungee Inline', cursive;
+}
+
+h4, p {
+    font-family: 'Indie Flower', cursive;
+}
+
+.text-muted {
+    color: #BCBBBB;
+ }
+
+.text-thin {
+    font-weight: 100;
+ }
+
+.title-logo {
+    margin-top: 20px;
+ }
+
+.title-super {
+    font-size: 60px;
+ }
